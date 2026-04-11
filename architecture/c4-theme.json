@@ -1,0 +1,52 @@
+{
+  "elements": [
+    {
+      "tag": "Person",
+      "background": "#85C1E9",
+      "color": "#000000",
+      "shape": "Person"
+    },
+    {
+      "tag": "Software System",
+      "background": "#A9DFBF",
+      "color": "#000000"
+    },
+    {
+      "tag": "Container",
+      "background": "#5DADE2",
+      "color": "#000000"
+    },
+    {
+      "tag": "Component",
+      "background": "#2E86C1",
+      "color": "#FFFFFF"
+    },
+    {
+      "tag": "Database",
+      "shape": "Cylinder",
+      "background": "#F5B041",
+      "color": "#000000"
+    },
+    {
+      "tag": "External",
+      "background": "#D5D8DC",
+      "color": "#000000",
+      "border": "Dashed"
+    }
+  ],
+  "relationships": [
+    {
+      "tag": "Relationship",
+      "color": "#333333",
+      "thickness": 2
+    }
+  ],
+  "styles": {
+    "element": {
+      "fontSize": 24
+    },
+    "relationship": {
+      "fontSize": 20
+    }
+  }
+}
