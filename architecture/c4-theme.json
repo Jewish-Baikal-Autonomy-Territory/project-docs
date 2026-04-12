@@ -34,6 +34,12 @@
       "color": "#000000"
     },
     {
+      "tag": "WebApp",
+      "shape": "WebBrowser",
+      "background": "#5DADE2",
+      "color": "#000000"
+    },
+    {
       "tag": "External",
       "background": "#D5D8DC",
       "color": "#000000",
