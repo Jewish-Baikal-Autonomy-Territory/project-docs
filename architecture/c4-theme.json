@@ -28,6 +28,12 @@
       "color": "#000000"
     },
     {
+      "tag": "MobileApp",
+      "shape": "MobileDevicePortrait",
+      "background": "#5DADE2",
+      "color": "#000000"
+    },
+    {
       "tag": "External",
       "background": "#D5D8DC",
       "color": "#000000",
